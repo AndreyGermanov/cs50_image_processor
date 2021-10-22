@@ -4,14 +4,10 @@ This is a project, which I have done when studying the essentials of programming
 
 Introduction video: https://youtu.be/lPaSOVFH0FI
 
-This is a standalone web application, used to demonstrate basic image filtering algorithms: blur, edge detection, grayscale, and others. Algorithms implemented on pure Javascript, using manipulations with 2d matrix of pixels from HTML5 Canvas. 
+This is a standalone web application, used to demonstrate basic image filtering algorithms: blur, edge detection, grayscale, and others. The algorithms were implemented on pure Javascript, using manipulations with a 2d matrix of pixels from HTML5 Canvas. 
 
 This app can be used for educational purposes. All filters, which are possible to find in Photoshop, GIMP, and other image processing software are based on algorithms like those, which implemented here, but of course, more optimized, advanced, and complex.
 
 ## Install and Run
 
 Everything is implemented on the client side. Just open `index.html` in your browser and everything is ready. No backend is required. 
-
- 
-
- 
