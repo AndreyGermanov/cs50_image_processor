@@ -1,6 +1,6 @@
 # CS50 Image Processor
 
-This is a project, which I have done when studying the essentials of programming science at the CS50 Harvard University program. 
+This is a project, which I have done when had been studying the essentials of programming science at the CS50 Harvard University program. 
 
 Introduction video: https://youtu.be/lPaSOVFH0FI
 
