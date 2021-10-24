@@ -2,7 +2,7 @@
 
 This is a project, which I have done when had been studying the essentials of programming science at the <a href="https://cs50.harvard.edu/certificates/54809fb7-3204-468e-9d37-bd9654e7295f" target="_blank">CS50 Harvard University program</a>. 
 
-Introduction video: https://youtu.be/iG_lNIx9uno
+Introduction video: https://youtu.be/vw_BdlWYNWU
 
 This is a standalone web application, used to demonstrate basic image filtering algorithms: blur, edge detection, grayscale, and others. The algorithms were implemented on pure Javascript, using manipulations with a 2d matrix of pixels from HTML5 Canvas. 
 
